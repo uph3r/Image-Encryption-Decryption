@@ -12,7 +12,7 @@
 Use the package manager pip to install cryptography(dependencies)
 
 ```
-  python3 -m pip install cryptography
+pip install cryptography
 ```
     
 ## Usage
